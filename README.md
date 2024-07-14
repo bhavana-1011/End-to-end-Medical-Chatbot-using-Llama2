@@ -32,3 +32,8 @@ on Windows system
 ```
  conda activate mchatbot
 ```
+3. Install requirements
+
+```
+pip install -r requirements.txt
+```
